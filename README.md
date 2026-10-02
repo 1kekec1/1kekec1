@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**1kekec1/1kekec1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--👋 Hi! I'm Maj Poljšak.
+💻 I'm an aspiring programmer currently learning programming and improving my skills through different projects.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Studying at Elektro in računalniška šola Nova Gorica.
+
+🌱 Currently learning Java and SQL
+
+💡 I enjoy exploring new technologies
+
+🛠️ I develop my projects using Apache NetBeans
+
+🎯 My goal is to become a skilled software developer
+
+💻 Languages & Technologies
+☕ Java
+
+🗄️ SQL
+
+🛠️ Apache NetBeans
+
+📝 Git & GitHub
+🎯 My Goal
+"Learn something new every day and write a few more lines of code." 🚀
+
+⭐ Thanks for visiting my profile!
