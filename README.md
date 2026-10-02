@@ -1,4 +1,3 @@
-
 <!--👋 Hi! I'm Maj Poljšak.
 💻 I'm an aspiring programmer currently learning programming and improving my skills through different projects.
 
